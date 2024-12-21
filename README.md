@@ -1,10 +1,12 @@
-[![MasterHead](https://www.hyperinteractive.de/wp-content/uploads/2022/05/full-stack-developer.gif)] <h1 align="center">Hi 👋, I'm Sharoze khan</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
-<img align="right" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif” /> 
+<p align="center">
+  <img src="https://www.hyperinteractive.de/wp-content/uploads/2022/05/full-stack-developer.gif" alt="MasterHead" width="100%" height="500px"  />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehrozkhannn&label=Profile%20views&color=0e75b6&style=flat" alt="shehrozkhannn" /> </p>
+<h1 align="center">Hi 👋, I'm Sharoze Khan</h1>
+<h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehrozkhannn" alt="shehrozkhannn" /></a> </p>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer-gif" style="width: 100%;  height:300px; max-width: 900px;"/>
+
 
 - 🌱 I’m currently learning **React Native , React , Next JS ,Node**
 
