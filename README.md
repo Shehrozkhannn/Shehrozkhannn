@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://www.hyperinteractive.de/wp-content/uploads/2022/05/full-stack-developer.gif" alt="MasterHead" width="100%" height="400px"  />
+  <img src="https://cdn.dribbble.com/users/119562/screenshots/4022507/fullstack.gif" alt="MasterHead" width="100%" height="500px"  />
+
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Sharoze Khan</h1>
